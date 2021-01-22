@@ -1,0 +1,6 @@
+{
+    "mongoURI":"mongodb+srv://djabar:D@ndjouma123456@agoloh.awohn.mongodb.net/agoloh?retryWrites=true&w=majority",
+    "jwtSecret":"mysecrettoken",
+    "githubClientId":"9bbfc25336ed415ab101",
+    "githubSecret":"7b604855473aa48c1a41d733ccbca771078b905"
+}
